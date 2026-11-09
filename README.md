@@ -5,7 +5,7 @@
 2. In this folder, open a terminal and run:
    npm install
    npm run dev
-3. Open the link shown (usually http://localhost:5173).
+3. Open the link shown (usually http://localhost:5175).
 
 ## Build for hosting
    npm run build   (output goes to /dist; upload to Netlify, Vercel or GitHub Pages)
